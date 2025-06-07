@@ -96,11 +96,11 @@ net start MySQL80
 This project is licensed under the **MIT License**.  
 
 ## Author  
-Dhruv kumar
+Nirmit Prasad
 
 
 ## Contact
-dhruv124kumar@gmail.com
+nirmitprasad@gmail.com
 
 ---
 
